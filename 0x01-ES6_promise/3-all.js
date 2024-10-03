@@ -1,4 +1,4 @@
-/* eslint-disable no-console */
+ 
 import { uploadPhoto, createUser } from './utils';
 
 export default function handleProfileSignup() {
