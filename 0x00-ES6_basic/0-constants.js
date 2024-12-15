@@ -13,3 +13,5 @@ export function taskNext() {
 
   return combination;
 }
+
+console.log("hello hafsa")
